@@ -1,0 +1,6 @@
+
+ Before push code this repo use this command
+
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/devRased
+
